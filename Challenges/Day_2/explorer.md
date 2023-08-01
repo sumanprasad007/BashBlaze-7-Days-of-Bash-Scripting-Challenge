@@ -57,7 +57,8 @@ After displaying the file and directory list, the script will prompt you to ente
 
 ### **🔍** Output Screen:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690894276466/6b4d400a-10e3-4efd-b72f-449e00bb518c.png align="center")
+![image](https://github.com/sumanprasad007/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/55047333/4f3f8a46-4055-4a3b-b4e9-63454970a998)
+
 
 # 📍 Conclusion:
 
